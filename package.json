@@ -4,6 +4,7 @@
   "docs-build": "vuepress build docs"
  },
  "devDependencies": {
+  "vuepress": "^1.1.0",
   "vuepress-bar": "^0.1.1"
  }
 }
